@@ -26,4 +26,4 @@ Python , PHP, Mysql, sqlite, Javascript, Css3 , html , anaconda, Wordpress, Dock
 
 Non coding related :
 
-zbrush , substance painter and designer, Maya, photoshop, illustrator, Indesign, Jira, Testrail , Perforce.
+zbrush , substance painter and designer, Maya, photoshop, illustrator, Indesign, Jira, Testrail , Perforce, slack , OBS, SDK game console (ps,xbox,epic,steam,switch) , UnrealGameSync.
