@@ -19,4 +19,4 @@
 
 💻 Tech Stack:
 
-Python , PHP, Mysql, sqlite, Javascript, Jira, Css3 , html , anaconda, Wordpress, Docker, Kubernetes, Figma , unreal engine, unity, zbrush , substance painter and designer, Maya, photoshop, illustrator, Indesign.
+Python , PHP, Mysql, sqlite, Javascript, Jira, Css3 , html , anaconda, Wordpress, Docker, Kubernetes, Figma , unreal engine, unity, zbrush , substance painter and designer, Maya, photoshop, illustrator, Indesign , Jira, Testrail.
