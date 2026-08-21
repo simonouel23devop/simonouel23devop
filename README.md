@@ -12,7 +12,7 @@
 
 🌐 Socials:
 -----------
-   📧 You can contact me on LinkedIn.
+   📧 You can contact me on LinkedIn
    📜 Email : simonouel12@gmail.com
 
 
