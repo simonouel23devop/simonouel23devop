@@ -12,8 +12,8 @@
 
 🌐 Socials:
 -----------
-   LinkedIn : https://www.linkedin.com/in/simon-ouellet-36a80b1b/
-   Email : simonouel12@gmail.com
+   📧 You can contact me on LinkedIn.
+   📜 Email : simonouel12@gmail.com
 
 
 
