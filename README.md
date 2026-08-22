@@ -21,8 +21,8 @@
 
 For coding :
 
-Python , PHP, Mysql, sqlite, Javascript, Css3 , html , anaconda, Wordpress, Docker, Kubernetes, Figma , unreal engine, unity.
+Python , PHP, Mysql, sqlite, Javascript, Css3 , html , anaconda, Wordpress, unreal engine, unity.
 
 Non coding related :
 
-zbrush , substance painter and designer, Maya, photoshop, illustrator, Indesign, Jira, Testrail , Perforce, slack , OBS, SDK game console (ps,xbox,epic,steam,switch) , UnrealGameSync.
+zbrush , substance painter and designer, Maya, photoshop, illustrator, Indesign, Jira, Testrail , Perforce, slack , OBS, SDK game console (ps,xbox,epic,steam,switch) , UnrealGameSync,Figma,Docker, Kubernetes
