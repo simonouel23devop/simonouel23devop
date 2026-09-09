@@ -25,4 +25,4 @@ Python , PHP, Mysql, sqlite, Javascript, Css3 , html , anaconda, Wordpress, unre
 
 Non related coding :
 
-zbrush , substance painter and designer, Maya, photoshop, illustrator, Indesign, Jira, Testrail , Perforce, slack , OBS, SDK game console (ps5,ps4,xbox one, xbox series x-s,epic,steam,switch) , UnrealGameSync,Figma,Docker, Kubernetes
+zbrush , substance painter and designer, Maya, photoshop, illustrator, Indesign, Jira, Testrail , Perforce, slack , OBS, SDK game console (ps5,ps4,xbox one, xbox series x-s,epic,steam,switch) , UnrealGameSync,Figma,Docker, Kubernetes.
