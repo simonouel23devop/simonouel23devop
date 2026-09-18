@@ -1,7 +1,7 @@
 💫 About Me:
 ------------
 
-🔭 I’m currently working on: Indie games in Unreal Engine using C++.
+🔭 I’m currently working on: Indie games in Unreal Engine using C++.                                        
 
 💬 I’m looking to collaborate on: Anything related to programming or 3D graphics.
 
