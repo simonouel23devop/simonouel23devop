@@ -5,7 +5,7 @@
 
 💬 I’m looking to collaborate on: Anything related programming  / 3D.
 
-🤔 I’m looking for help with: C++, c sharp 
+🤔 I’m looking for help with: C++, c sharp and all related coding and 3d.
 
 🌱 I’m currently learning: c++ , openGL, directX, multi-threading, video game matrix calculation.
 
