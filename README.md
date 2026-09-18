@@ -21,7 +21,7 @@
 
 For coding :
 ------------
-Python , PHP, Mysql, sqlite, Javascript, Css3 , html , anaconda, Wordpress, unreal engine, unity.
+C++, Python , PHP, Mysql, sqlite, Javascript, Css3 , html , anaconda, Wordpress, unreal engine, unity.
 
 Non related coding :
 --------------------
