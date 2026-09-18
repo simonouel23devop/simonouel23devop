@@ -1,23 +1,25 @@
 💫 About Me:
 ------------
 
-🔭 I’m currently working on: C++ working on a indie games in Unreal engine.
+🔭 I’m currently working on: Indie games in Unreal Engine using C++.
 
-💬 I’m looking to collaborate on: Anything related programming  / 3D.
+💬 I’m looking to collaborate on: Anything related to programming or 3D graphics.
 
-🤔 I’m looking for help with: C++, c sharp and all related coding and 3D.
+🤔 I’m looking for help with: C++, C#, and related coding or 3D workflows.
 
-🌱 I’m currently learning: c++ , directX, video game matrix calculation.
+🌱 I’m currently learning: C++, DirectX, and video game matrix calculations.
 
 
 🌐 Socials:
 -----------
-   📧 You can contact me on LinkedIn or📜 Email .
-
-
+📧 You can contact me on LinkedIn or📜 Email .
 
 💻 Tech Stack:
 --------------
+
+
+
+
 
 For coding :
 ------------
