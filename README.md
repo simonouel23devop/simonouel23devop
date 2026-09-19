@@ -14,6 +14,8 @@
 🌐 Socials:
 -----------
 📧 You can contact me on LinkedIn or📜 Email .
+ 
+ <img width="107" height="35" alt="68747470733a2f2f626561722d696d616765732e73666f322e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f6e6172656e2f6d61696c7075742e676966" src="https://github.com/user-attachments/assets/32024077-eb2c-45dc-bb02-afd5faf4be48" />
 
 💻 Tech Stack:
 --------------
