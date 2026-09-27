@@ -1,4 +1,5 @@
 
+
 💫 About Me:
 ------------
 <img width="1040" height="580" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/3acb2772-19ac-4983-9398-0519da63c3fc" />
@@ -17,11 +18,11 @@
 🌐 Socials:
 -----------
 📧 You can contact me on LinkedIn or📜 Email .
- 
- <img width="107" height="35" alt="68747470733a2f2f626561722d696d616765732e73666f322e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f6e6172656e2f6d61696c7075742e676966" src="https://github.com/user-attachments/assets/32024077-eb2c-45dc-bb02-afd5faf4be48" />
 
 💻 Tech Stack:
 --------------
+
+<img width="100" height="100" alt="219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8" src="https://github.com/user-attachments/assets/08d6d0b1-72f6-489c-a261-30883cb39b98" />
 
 For coding :
 
