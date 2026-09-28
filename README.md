@@ -31,7 +31,8 @@
 
 For coding :
 
-C++, C#,  Python , PHP, Mysql, sqlite, Javascript, Css3 , html , anaconda, Wordpress, unreal engine, unity , powershell , bash, github, git, Docker, Kubernetes, vscode, AI gemini, claude code.
+
+C++, C#, python, PHP, Mysql, sqlite, Javascript, Css3 , html , anaconda, Wordpress, unreal engine, unity , powershell , bash, github, git, Docker, Kubernetes, vscode, AI gemini, claude code.
 
 Non related coding :
 
