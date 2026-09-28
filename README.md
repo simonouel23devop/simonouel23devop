@@ -16,7 +16,7 @@
 🌐 Socials:
 -----------
 
-<img width="50" height="50" alt="235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483" src="https://www.linkedin.com/in/simon-ouellet-36a80b1b/" />
+<img width="50" height="50" alt="235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483" src="https://github.com/user-attachments/assets/5105fa17-4746-436f-8760-8ebeb7a9ba6b" href="https://www.linkedin.com/in/simon-ouellet-36a80b1b"/>
 <img width="50" height="50" alt="235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755" src="https://github.com/user-attachments/assets/74cd4cfd-6e4d-4b5c-a3d8-54f1d539075e" />
 <img width="50" height="50" alt="235294015-47144047-25ab-417c-af1b-6746820a20ff" src="https://github.com/user-attachments/assets/3bd8c844-848d-4e92-a2fc-f7d02cfc412a" />
 
