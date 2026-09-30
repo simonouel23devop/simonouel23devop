@@ -64,3 +64,6 @@ zbrush , substance painter and designer, Maya, photoshop, illustrator, Indesign,
 
 
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/simonouel23devop">
+
+
