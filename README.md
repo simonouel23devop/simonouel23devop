@@ -55,6 +55,10 @@
 <img width="93" height="28" alt="image" src="https://github.com/user-attachments/assets/e59422b7-0559-4fa8-abf1-bef14e96b356" />
 <img width="76" height="28" alt="image" src="https://github.com/user-attachments/assets/46eebf8b-29e5-4b9a-b137-f934847a9317" />
 <img width="75" height="28" alt="image" src="https://github.com/user-attachments/assets/d86e026e-24bf-4521-8b67-a3710b20976f" />
+<img alt="Static Badge" src="https://img.shields.io/badge/OpenGL-blue?style=for-the-badge">
+
+
+
 </p>
 
 
