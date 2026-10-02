@@ -8,7 +8,7 @@
 
 💬 I’m looking to collaborate on: Anything related to programming or 3D graphics, (i have a 3D artist formation).
 
-🤔 I’m looking for help with: C++, C#, and related coding.
+🤔 I’m looking for help with: C++ and related coding.
 
 🌱 I’m currently learning: C++, DirectX, and video game matrix calculations.
 
