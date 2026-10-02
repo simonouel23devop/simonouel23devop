@@ -66,8 +66,29 @@
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/No_CODING-red?style=flat">
+<p>  
 
-zbrush , substance painter and designer, Maya, photoshop, illustrator, Indesign, Jira, Testrail , Perforce, slack , OBS, SDK game console (ps5,ps4,xbox one, xbox series x-s,epic,steam,switch) , UnrealGameSync, Figma, coreldraw.
+<img alt="Static Badge" src="https://img.shields.io/badge/Maya-cyan?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Zbrush-orange?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Substance%20painter%20%26%20designer%20-red?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Photoshop%20-blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Illustrator%20-orange?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Indesign%20-purple?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Jira%20-blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Testrail-blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Perforce-cyan?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Slack-red?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Obs-black?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/SDK%20game%20console%20(Ps5%2Cps4%2Cepic%2Csteam%2Cswitch%2Cxbox%20%20one%2C%20xbox%20series%20x%2Fs)%20-%20black?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/UnrealGameSync%20-%20blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Figma%20-%20cyan?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Coreldraw%20-%20green?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20office%20365%20-%20red?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Team%20viewer%20-%20purple?style=for-the-badge">
+
+
+</p>
+
 
 ----------------------------------------------------------------
 <p>  
