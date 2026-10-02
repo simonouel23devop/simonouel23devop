@@ -31,6 +31,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/CODING-red?style=flat">
 
+
 <p>  
 <img width="52" height="28" alt="download" src="https://github.com/user-attachments/assets/e79007b2-b70e-439b-9cae-3c7193a9e4d7" />
 <svg xmlns="http://www.w3.org/2000/svg" width="51.75" height="28" role="img" aria-label="C++"><g shape-rendering="crispEdges"><rect width="51.75" height="28" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="258.75" y="175" textLength="277.5" font-weight="bold"></g></svg>
@@ -60,10 +61,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/DirectX-black?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/AWS-orange?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Swarm-cyan?style=for-the-badge">
-
-
-
 </p>
+
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/No_CODING-red?style=flat">
