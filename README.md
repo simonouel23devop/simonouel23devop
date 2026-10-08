@@ -10,7 +10,7 @@
 
 🤔 I’m looking for help with: C++ and related coding.
 
-🌱 I’m currently learning: C++, DirectX, and video game matrix calculations.
+🌱 I’m currently learning: C++, and video game matrix calculations.
 
 
 🌐 Socials:
