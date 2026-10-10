@@ -60,7 +60,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Vulkan-grey?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/DirectX-black?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/AWS-orange?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/Swarm-cyan?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Jetbrains-cyan?style=for-the-badge">
 
 </p>
