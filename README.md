@@ -85,6 +85,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Coreldraw%20-%20green?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20office%20365%20-%20red?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Team%20viewer%20-%20purple?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/%20RenderDoc-blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Polaris-black?style=for-the-badge">
 
 
 </p>
