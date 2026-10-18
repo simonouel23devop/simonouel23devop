@@ -89,9 +89,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/%20RenderDoc-blue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Polaris-black?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/UnrealInsight-8A2BE2?style=for-the-badge">
-
-
-
 </p>
 
 
