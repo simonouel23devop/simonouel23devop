@@ -6,9 +6,9 @@
 
 🔭 I’m currently working on: Indie games in Unreal Engine using C++.                                        
 
-💬 I’m looking to collaborate on: Anything related to programming or 3D graphics, (i have a 3D artist formation).
+💬 I’m looking to collaborate on: Anything related to programming or 3D graphics.
 
-🤔 I’m looking for help with: C++ and related coding.
+🤔 I’m looking for help with: C++.
 
 🌱 I’m currently learning: C++, and video game matrix calculations.
 
