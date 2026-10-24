@@ -4,13 +4,13 @@
 💫 About Me:
 ------------
 
-🔭 I’m currently working on: Indie games in Unreal Engine using C++.                                        
+🔭 I’m currently working on: Indie games demo in Unreal Engine using C++.                                        
 
-💬 I’m looking to collaborate on: Anything related to programming or 3D graphics.
+💬 I’m looking to collaborate on: Anything related to programming or 3D.
 
 🤔 I’m looking for help with: C++.
 
-🌱 I’m currently learning: C++ and unreal engine.
+🌱 I’m currently learning: C++ and unreal engine, jetbrains IDE and Clion.
 
 
 🌐 Socials:
