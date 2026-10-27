@@ -10,7 +10,7 @@
 
 🤔 I’m looking for help with: C++.
 
-🌱 I’m currently learning: C++ and unreal engine, jetbrains IDE and Clion.
+🌱 I’m currently learning: C++ and unreal engine
 
 
 🌐 Socials:
