@@ -3,7 +3,7 @@
 💫 About Me:
 ------------
 
-🔭 I’m currently working on: Indie games demo in Unreal Engine using C++.                                        
+🔭 I’m currently working on: Indie games demo fps shooter in Unreal Engine using C++ and blueprints.                                        
 
 💬 I’m looking to collaborate on: Anything related to programming or 3D.
 
