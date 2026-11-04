@@ -23,9 +23,7 @@
 --------------
 
 <img width="100" height="100" alt="219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8" src="https://github.com/user-attachments/assets/08d6d0b1-72f6-489c-a261-30883cb39b98" />
-
 <img alt="Static Badge" src="https://img.shields.io/badge/CODING-red?style=flat">
-
 
 <p>  
 <img width="52" height="28" alt="download" src="https://github.com/user-attachments/assets/e79007b2-b70e-439b-9cae-3c7193a9e4d7" />
