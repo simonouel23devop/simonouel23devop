@@ -7,7 +7,7 @@
 
 💬 I’m looking to collaborate on: Anything related to programming or 3D.
 
-🌱 I’m currently learning: C++ and unreal engine
+🌱 I’m currently learning: C++, C# and Unreal engine
 
 
 🌐 Socials :
