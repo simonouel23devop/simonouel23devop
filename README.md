@@ -54,6 +54,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/DirectX-black?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/AWS-orange?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Jetbrains-cyan?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Node.Js-green?style=for-the-badge">
 
 </p>
 
@@ -82,7 +83,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/%20RenderDoc-blue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Polaris-black?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/UnrealInsight-8A2BE2?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.Js-green?style=for-the-badge">
 
 </p>
 
