@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on: Indie games demo fps shooter in Unreal Engine using C++ and blueprints.                                        
 
-💬 I’m looking to collaborate on: Anything related to programming or 3D.
+💬 I’m looking to collaborate on: Anything related to programming or 3D modeling - rigging or animation
 
 🌱 I’m currently learning: C++, C# and Unreal engine
 
