@@ -87,8 +87,4 @@
 
 
 ----------------------------------------------------------------
-<p>  
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/simonouel23devop">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/simonouel23devop">
-</p>
 
